@@ -21,14 +21,11 @@
   <img src="https://img.shields.io/badge/privacy-100%25%20offline-2ea043.svg" alt="100% offline">
 </p>
 
-<sub align="center">Formerly "Local AI Search" — renamed to PixaFind with v0.4.0.</sub>
-
 <p align="center"><sub>✨ TRY SEARCHING FOR ✨</sub></p>
 <p align="center">
   <code>sunset over a lake</code> &nbsp;·&nbsp; <code>the Q3 budget spreadsheet</code> &nbsp;·&nbsp; <code>screenshots with code</code><br>
   <code>cat in a sunbeam</code> &nbsp;·&nbsp; <code>my resume</code> &nbsp;·&nbsp; <code>blurry photo of a whiteboard</code>
 </p>
-
 
 ---
 
