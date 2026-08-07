@@ -31,11 +31,9 @@
 
 ## Why PixaFind
 
-You took 8,000 photos last year. You remember one — a sunset by a lake. You don't remember the filename, the folder, or the date.
+You took 8,000 photos last year. You remember one of them, a sunset by a lake, but not the filename, the folder, or the date.
 
-**You shouldn't have to.**
-
-PixaFind indexes your files by **what's actually in them**. Type `"sunset over a lake with mountains"` and the photo surfaces. Type `"the spreadsheet about Q3 budget"` and the doc surfaces. Everything — the AI models, the vector index, the search — runs **on your machine**.
+PixaFind indexes your files by **what's in them**. Type `"sunset over a lake with mountains"` and the photo surfaces. Type `"the spreadsheet about Q3 budget"` and the doc surfaces. The AI models, the vector index, and the search all run **on your machine**.
 
 ---
 
@@ -50,13 +48,13 @@ PixaFind indexes your files by **what's actually in them**. Type `"sunset over a
 | 🚀 | **Uses your GPU** | CUDA / DirectML auto-detected for fast indexing. CPU fallback always works. |
 | 🔌 | **100% offline** | Zero network calls. Zero telemetry. Air-gap friendly. |
 | 💾 | **Incremental indexing** | Hash-based change detection re-indexes only what changed |
-| 🪶 | **5 MB native shell** | Built on Tauri 2, not Electron — a real native window, not a Chrome tab |
+| 🪶 | **5 MB native shell** | Built on Tauri 2, so you get a real native window instead of a bundled Chrome tab |
 
 ---
 
 ## Pricing
 
-PixaFind has a **free tier** to get started, with Pro plans that unlock unlimited folders, faster indexing, and priority features.
+PixaFind has a **free tier**, and Pro plans unlock unlimited folders, faster indexing, and priority features.
 
 <p align="center">
   <a href="https://pixafind.com"><strong>→ See plans &amp; pricing at pixafind.com</strong></a>
@@ -70,7 +68,7 @@ PixaFind has a **free tier** to get started, with Pro plans that unlock unlimite
 2. Run it. PixaFind downloads its AI models on first launch (~500 MB, one time).
 3. Point it at a folder and start searching.
 
-Updates are delivered automatically through the in-app updater.
+The in-app updater delivers new versions for you.
 
 ### Requirements
 - Windows 10 / 11 (64-bit)
@@ -81,11 +79,11 @@ Updates are delivered automatically through the in-app updater.
 
 ## Your privacy is the product
 
-PixaFind makes **zero network calls** for search. The models run locally, the index lives on your disk, and nothing about your files — not names, not contents, not thumbnails — is ever uploaded. There is no account required to search, and no telemetry.
+PixaFind makes **zero network calls** for search. The models run locally, the index lives on your disk, and PixaFind never uploads anything about your files: not names, not contents, not thumbnails. Search needs no account, and the app sends no telemetry.
 
 ---
 
 <p align="center">
   <sub>PixaFind is commercial software. © 2026 <a href="https://pixafind.com">PixaLabs</a>. All rights reserved.<br>
-  This repository hosts installer downloads and update artifacts only — the application source is private.</sub>
+  This repository hosts installer downloads and update artifacts only. The application source is private.</sub>
 </p>
